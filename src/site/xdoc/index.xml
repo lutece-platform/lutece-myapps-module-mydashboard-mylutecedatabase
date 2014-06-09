@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>MyLuteceDatabase module for MyDashboard</title>
+    </properties>
+    <body>
+        <section name="MyLuteceDatabase module for MyDashboard">
+            <subsection name="Introduction">
+                <p>This module let manage user's MyLutece account into its dashboard MyDashboard</p>
+            </subsection>
+        </section>
+    </body>
+</document>
+

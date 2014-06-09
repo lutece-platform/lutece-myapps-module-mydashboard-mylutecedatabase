@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Module MyLuteceDatabase pour MyDashboard</title>
+    </properties>
+    <body>
+        <section name="Module MyLuteceDatabase pour MyDashboard">
+            <subsection name="Introduction">
+                <p>Ce module permet d'afficher un bloc pour administrer le compte MyLutece de l'utilisateur 
+                    dans son tableau de bord MyDashboard</p>
+            </subsection>
+        </section>
+    </body>
+</document>
+
